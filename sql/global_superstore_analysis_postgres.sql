@@ -1,5 +1,5 @@
 --This project was done using PostgreSQL for SQL analysis.
---This is done by Kartikay Rajan.
+--This is done by himanshu.
 
 
 --  Top 10 Selling Products 

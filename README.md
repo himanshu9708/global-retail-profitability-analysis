@@ -191,7 +191,7 @@ global-retail-profitability-analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kartikrajan14/global-retail-profitability-analysis.git
+   git clone https://github.com/himanshu9708/global-retail-profitability-analysis.git
    ```
 
 2. **Python EDA**
@@ -219,4 +219,4 @@ This project demonstrates **end-to-end, business-focused analytics skills** — 
 
 ---
 
-*Analysis by **Kartikay Rajan***
+*Analysis by **himanshu kumar***
